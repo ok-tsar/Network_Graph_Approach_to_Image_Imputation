@@ -1,2 +1,2 @@
-# Network_Graph_Approach_to_Image_Imputation
+# Network Graph Approach to Image Imputation
 A novel network graph approach to image imputation
