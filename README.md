@@ -20,29 +20,29 @@ The two test cases we tested our two imputation approaches on.
 
 Problem 1 : 
 
-<img width="207" alt="Screen Shot 2021-05-28 at 9 26 10 AM" src="https://user-images.githubusercontent.com/54241448/119998872-c1a8d900-bf96-11eb-9416-4a1b266a834c.png"><img width="207" alt="Screen Shot 2021-05-28 at 9 26 34 AM" src="https://user-images.githubusercontent.com/54241448/119998927-cff6f500-bf96-11eb-94f3-b7fbc03d9356.png">
+<img width="300" alt="Screen Shot 2021-05-28 at 9 26 10 AM" src="https://user-images.githubusercontent.com/54241448/119998872-c1a8d900-bf96-11eb-9416-4a1b266a834c.png"><img width="300" alt="Screen Shot 2021-05-28 at 9 26 34 AM" src="https://user-images.githubusercontent.com/54241448/119998927-cff6f500-bf96-11eb-94f3-b7fbc03d9356.png">
 
 Problem 2 :
 First image is full image with imputed pixes, second image is the imputed pixels only
-<img width="514" alt="Screen Shot 2021-05-28 at 9 27 11 AM" src="https://user-images.githubusercontent.com/54241448/119999019-e69d4c00-bf96-11eb-900c-cb604e8b7007.png">
+<img width="600" alt="Screen Shot 2021-05-28 at 9 27 11 AM" src="https://user-images.githubusercontent.com/54241448/119999019-e69d4c00-bf96-11eb-900c-cb604e8b7007.png">
 
 ## Novel Network Graph Approach Parameters
 
  * see report for detailed description of parameters and their calculation
 
-<img width="514" alt="Screen Shot 2021-05-28 at 9 28 52 AM" src="https://user-images.githubusercontent.com/54241448/119999241-22d0ac80-bf97-11eb-94e5-457ce4e0ece8.png">
+<img width="600" alt="Screen Shot 2021-05-28 at 9 28 52 AM" src="https://user-images.githubusercontent.com/54241448/119999241-22d0ac80-bf97-11eb-94e5-457ce4e0ece8.png">
 
-<img width="514" alt="Screen Shot 2021-05-28 at 9 29 55 AM" src="https://user-images.githubusercontent.com/54241448/119999363-485db600-bf97-11eb-8e7d-11ce1e25c756.png">
+<img width="600" alt="Screen Shot 2021-05-28 at 9 29 55 AM" src="https://user-images.githubusercontent.com/54241448/119999363-485db600-bf97-11eb-8e7d-11ce1e25c756.png">
 
 ## Solutions with Novel Network Graph Approach
 
 Problem 1 : 
 
-<img width="207" alt="Screen Shot 2021-05-28 at 9 30 49 AM" src="https://user-images.githubusercontent.com/54241448/119999476-69260b80-bf97-11eb-8358-ef90b798b64c.png"><img width="207" alt="Screen Shot 2021-05-28 at 9 31 10 AM" src="https://user-images.githubusercontent.com/54241448/119999522-74793700-bf97-11eb-9d4d-806380fa4c8c.png">
+<img width="300" alt="Screen Shot 2021-05-28 at 9 30 49 AM" src="https://user-images.githubusercontent.com/54241448/119999476-69260b80-bf97-11eb-8358-ef90b798b64c.png"><img width="300" alt="Screen Shot 2021-05-28 at 9 31 10 AM" src="https://user-images.githubusercontent.com/54241448/119999522-74793700-bf97-11eb-9d4d-806380fa4c8c.png">
 
 Problem 2 :
 First image is full image with imputed pixes, second image is the imputed pixels only
-<img width="514" alt="Screen Shot 2021-05-28 at 9 31 40 AM" src="https://user-images.githubusercontent.com/54241448/119999602-89ee6100-bf97-11eb-9cdf-aabb036bb3f3.png">
+<img width="600" alt="Screen Shot 2021-05-28 at 9 31 40 AM" src="https://user-images.githubusercontent.com/54241448/119999602-89ee6100-bf97-11eb-9cdf-aabb036bb3f3.png">
 
 ## Conclusion
 
