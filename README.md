@@ -8,13 +8,13 @@ Abstract — Image imputation has many applications in image processing from pho
 
 The overall problem is centered around imputing unknown or damaged pixels using the surrounding pixels.
 
-<img width="514" alt="Screen Shot 2021-05-28 at 9 21 14 AM" src="https://user-images.githubusercontent.com/54241448/119998261-27e12c00-bf96-11eb-8230-9dcff2590dbe.png">
+<img width="600" alt="Screen Shot 2021-05-28 at 9 21 14 AM" src="https://user-images.githubusercontent.com/54241448/119998261-27e12c00-bf96-11eb-8230-9dcff2590dbe.png">
 
 The two test cases we tested our two imputation approaches on.
  (1) how well can we replace certain specific areas of an image
  (2) how well can we impute the blacked out pixels if 50% of the pixels are set to randomly blacked out.
 
-<img width="514" alt="Screen Shot 2021-05-28 at 9 24 08 AM" src="https://user-images.githubusercontent.com/54241448/119998600-78f12000-bf96-11eb-83ca-d1de82fdc3af.png">
+<img width="600" alt="Screen Shot 2021-05-28 at 9 24 08 AM" src="https://user-images.githubusercontent.com/54241448/119998600-78f12000-bf96-11eb-83ca-d1de82fdc3af.png">
 
 ## Solutions with Naive Linear Regression Approach
 
